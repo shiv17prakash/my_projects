@@ -1,1 +1,3 @@
 this is for merge conflict
+this is just a random text written by let's say sudhanshu and sakshi 
+harshita added a new line 
