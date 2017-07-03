@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is another text that I will check in git hub
-=======
-this is another text that I will check
->>>>>>> testing-shiv
+This is just a test file. 
